@@ -1,7 +1,7 @@
 # Análise exploratória de dados de smartphone sobre práticas de atividades
 
 
-**OBJETIVO:** Realizar uma Análise Exploratória dos Dados (AED) e analise preditiva de dados de sensores de smartphone para reconhecimento atividades humanas. 
+**OBJETIVO:** Realizar uma Análise Exploratória dos Dados (AED) e análise preditiva de dados de sensores de smartphone para reconhecimento atividades humanas. 
 
 
 **DEPENDÊNCIAS:**
